@@ -7,8 +7,7 @@ $config= [
     'db' => '',
     'email' => '',
     'senha_email' => ''
-
-]
+];
 
 
 
